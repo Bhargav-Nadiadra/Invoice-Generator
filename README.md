@@ -40,7 +40,7 @@ Start the server
 
 ## Demo
 
-https://invoice-generator-swart.vercel.app/
+https://invoice-generator-seven-chi.vercel.app/
 
 
 ## 🔗 Links
