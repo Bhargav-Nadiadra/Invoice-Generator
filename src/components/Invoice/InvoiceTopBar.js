@@ -3,12 +3,12 @@ import { IconStyle } from "../../constants/defaultStyles";
 import Button from "../Button/Button";
 import EyeOpenIcon from "../Icons/EyeOpenIcon";
 import PencilIcon from "../Icons/PencilIcon";
-import SettingIcon from "../Icons/SettingIcon";
+// import SettingIcon from "../Icons/SettingIcon";
 
 function InvoiceTopBar({
   viewMode = false,
   onClickViewAs,
-  onClickSetting,
+  // onClickSetting,
   onClickExport,
   onClickDownloadImg,
   onClickBack,
@@ -53,11 +53,11 @@ function InvoiceTopBar({
             </Button>
           </div>
         </div>
-        <div className="w-full sm:w-1/2 md:w-1/4 my-1 sm:my-1 md:my-0 px-1">
+        {/* <div className="w-full sm:w-1/2 md:w-1/4 my-1 sm:my-1 md:my-0 px-1">
           <Button size="sm" block={1} outlined={1} onClick={onClickSetting}>
             <SettingIcon className="h-4 w-4" /> Setting
           </Button>
-        </div>
+        </div> */}
         <div className="w-full sm:w-1/2 md:w-1/4 my-1 sm:my-1 md:my-0 px-1">
           <Button size="sm" block={1} outlined={1} onClick={onClickExport}>
             <svg

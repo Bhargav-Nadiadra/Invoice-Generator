@@ -83,6 +83,7 @@ function Sidebar() {
           >
             <span className="nav-loading">
               <InvoiceNavbarLoading loop />
+              {/* Lottie call */}
             </span>
             Invoice Generator
           </motion.span>
