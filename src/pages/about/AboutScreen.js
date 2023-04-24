@@ -25,7 +25,7 @@ function AboutScreen() {
               <h1>
                 {" "}
                 Free Invoice Generator for your business using ReactJS and
-                SQL.
+                Local Storage.
               </h1>
             </div>
           </div>
@@ -41,26 +41,18 @@ function AboutScreen() {
           </div>
           <div className="font-title mt-3 mb-5">
             <div>
-              🤝 I’m looking for help with JS dev to build Many Free Softwares
-              to help people who can't afford !!
+              🤝 I’m looking for help with JS dev to build Many new projects.
             </div>
             <div>
               📫 How to reach me{" "}
               <a
-                href="mailto:notesfreein@gmail.com"
+                href="mailto:bhargavnadiadra@gmail.com"
                 className="underline cursor-pointer"
               >
-                notesfreein@gmail.com
+                bhargavnadiadra@gmail.com
               </a>{" "}
               (or){" "}
-              <a
-                href="https://www.facebook.com/notes4free/"
-                target={"_blank"}
-                className="underline cursor-pointer"
-                rel="noreferrer"
-              >
-                facebook
-              </a>
+            
             </div>
             <div>
               <span>🎁 </span>
