@@ -50,9 +50,7 @@ function AboutScreen() {
                 className="underline cursor-pointer"
               >
                 bhargavnadiadra@gmail.com
-              </a>{" "}
-              (or){" "}
-            
+              </a>{" "}     
             </div>
             <div>
             </div>
