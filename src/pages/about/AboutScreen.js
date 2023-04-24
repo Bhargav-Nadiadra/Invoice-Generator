@@ -55,16 +55,6 @@ function AboutScreen() {
             
             </div>
             <div>
-              <span>🎁 </span>
-              <a
-                href="https://github.com/nikhilkeshava/invoice-generator-reactjs-firebase"
-                className="underline cursor-pointer"
-                target={"_blank"}
-                rel="noreferrer"
-              >
-                {" "}
-                Repo Link Here
-              </a>
             </div>
           </div>
 
