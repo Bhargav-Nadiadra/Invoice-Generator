@@ -15,7 +15,7 @@ function AboutScreen() {
             />
             <div>
               <a
-                href="https://github.com/lwinmoepaing"
+                href="https://github.com/Bhargav-Nadiadra/Invoice-Generator"
                 target={"_blank"}
                 className="underline cursor-pointer"
                 rel="noreferrer"
@@ -41,7 +41,7 @@ function AboutScreen() {
           </div>
           <div className="font-title mt-3 mb-5">
             <div>
-              🤝 I’m looking for help with JS dev to build Many new projects.
+              🤝 I’m looking for help with ReactJS dev to build Many new projects.
             </div>
             <div>
               📫 How to reach me{" "}
